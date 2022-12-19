@@ -4,7 +4,7 @@ function Home(props) {
     return (
         <div>
            
-            <h1>Home Componentss</h1>
+            <h1>Home Componentsss</h1>
             <div className="cart-wrapper">
                 <div className="img-wrapper item">
                     <img src="https://www.fdfproject.com/wp-content/uploads/2018/12/iphone-png.png" />
